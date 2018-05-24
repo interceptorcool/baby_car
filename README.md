@@ -2,8 +2,8 @@
 controlling the child's car from the phone
 
 # library
-1. Filters-master.zip
-2. RemoteXY.zip
+1. Filters-master.zip 	- https://github.com/JonHub/Filters
+2. RemoteXY.zip         - http://remotexy.com/
 
 # Files
 main Arduino files
